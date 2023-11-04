@@ -1,5 +1,5 @@
 # Data-Analytics
-Explore my data analytics journey. Data visualization and processing projects, showcasing insights from raw data. Let's dive into data together!"
+Explore my data analytics journey. Data visualization and processing projects, showcasing insights from raw data. Let's dive into data together!
 <div align="center">
 <img src="https://media.giphy.com/media/MBCodZbEhb2jSNUZNd/giphy.gif" width="400"/>
 </div>
